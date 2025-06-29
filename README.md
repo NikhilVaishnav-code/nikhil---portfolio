@@ -1,5 +1,6 @@
 # Portfolio Website
-# Portfolio Website
+![Portfolio Preview](./preview.png)
+
 
 A simple and clean portfolio website built using **Next.js** to showcase my work and skills.
 
